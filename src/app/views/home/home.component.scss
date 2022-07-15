@@ -1,0 +1,19 @@
+table {
+  width: 100%;
+}
+
+.container {
+  padding: 50px 80px;
+}
+
+.btn {
+  color: #fff;
+  background-color: blue;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: rgb(74, 74, 245);
+  transition: .2s;
+}
